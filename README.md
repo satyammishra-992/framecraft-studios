@@ -9,6 +9,9 @@ The contact form posts to `https://vernanbackend.ezlab.in/api/contact-us/`.
 npm install
 npm run dev
 ```
+### 🌍 *Live Demo*
+
+🔗 [*View Live Project*](https://690f83f4830685993c8ebb7d--framecraft-studios.netlify.app/)
 
 ## Build
 ```bash

@@ -1,4 +1,4 @@
-# FrameCraft Studios - Front-End Intern Test (React + Vite + Tailwind)
+# FrameCraft Studios  (React + Vite + Tailwind)
 
 ## Summary
 Single-page responsive website inspired by a design reference. Includes Hero, About, Services, Portfolio and Contact sections.
